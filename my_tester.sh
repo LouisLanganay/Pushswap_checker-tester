@@ -63,6 +63,7 @@ run_test "echo 'pb pb rb pa' | ./$BINARY_NAME 1 2" "KO" 0
 
 printf "\n\033[1;33m----- PUSHSWAP_CHECKER ADVANCED TESTS -----\033[0m\n\n"
 
+run_test "echo 'pb' | ./$BINARY_NAME 2 1" "KO" 0
 run_test "echo 'sa pb pb pb sa pa pa pa' | ./$BINARY_NAME 2 1 3 6 5 8" "OK" 0
 run_test "echo 'sa pb pb pb' | ./$BINARY_NAME 2 1 3 6 5 8" "KO" 0
 
