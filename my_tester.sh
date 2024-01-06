@@ -71,7 +71,7 @@ run_test "echo 'sa pb ra rra pa' | ./$BINARY_NAME 2 1" "OK" 0
 
 printf "\n\033[1;33m----- PUSHSWAP_CHECKER ERROR HANDLING TESTS -----\033[0m\n\n"
 
-run_test "echo 'sasa' | ./$BINARY_NAME 2 1" "" 84 >> printListTuple (maybeIntToInt l_a, maybeIntToInt l_b)
+run_test "echo 'sasa' | ./$BINARY_NAME 2 1" "" 84
 run_test "echo 'sa' | ./$BINARY_NAME 2 a" "" 84
 run_test "echo '' | ./$BINARY_NAME" "OK" 0
 run_test "echo 'sa' | ./$BINARY_NAME 2 -1" "OK" 0
