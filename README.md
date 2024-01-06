@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/github/stars/LouisLanganay/Pushswap_checker-tester.svg?style=social&label=Star&maxAge=2592000"/>
 </p>
 
-# Pushswao_checker tester
+# Pushswap_checker tester
 With this tester you can test your own pushswap_checker.
 All return values and print output are tested for each tests
 
@@ -28,5 +28,9 @@ All return values and print output are tested for each tests
   
 > [!NOTE]
 > All return values and print output are tested for each tests
+
+## Examples
+![image](https://github.com/LouisLanganay/Pushswap_checker-tester/assets/114762819/5c12c2de-6a3f-40fa-8be0-ccd885eb2555)
+
 
 ![Logo](https://newsroom.ionis-group.com/wp-content/uploads/2023/09/EPI-LOGO-2023-QUADRI.png)
