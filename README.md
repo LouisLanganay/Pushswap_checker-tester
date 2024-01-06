@@ -31,6 +31,6 @@ All return values and print output are tested for each tests
 
 ## Examples
 ![image](https://github.com/LouisLanganay/Pushswap_checker-tester/assets/114762819/5c12c2de-6a3f-40fa-8be0-ccd885eb2555)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisLanganay&repo=42sh-tester&theme=dark&border_radius=8&hide_border=true)](https://github.com/LouisLanganay/42sh-tester)
 
 ![Logo](https://newsroom.ionis-group.com/wp-content/uploads/2023/09/EPI-LOGO-2023-QUADRI.png)
